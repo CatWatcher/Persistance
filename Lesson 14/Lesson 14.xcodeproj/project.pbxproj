@@ -14,6 +14,7 @@
 		FC9D0A8225F6A06A00D24C3B /* Lesson_14.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FC9D0A8025F6A06A00D24C3B /* Lesson_14.xcdatamodeld */; };
 		FC9D0A8425F6A06D00D24C3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC9D0A8325F6A06D00D24C3B /* Assets.xcassets */; };
 		FC9D0A8725F6A06D00D24C3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC9D0A8525F6A06D00D24C3B /* LaunchScreen.storyboard */; };
+		FCBE40FB25FBC19B001EDC68 /* UDclass.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCBE40FA25FBC19B001EDC68 /* UDclass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FC9D0A8325F6A06D00D24C3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC9D0A8625F6A06D00D24C3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC9D0A8825F6A06D00D24C3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCBE40FA25FBC19B001EDC68 /* UDclass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UDclass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				FC9D0A7725F6A06A00D24C3B /* AppDelegate.swift */,
 				FC9D0A7925F6A06A00D24C3B /* SceneDelegate.swift */,
 				FC9D0A7B25F6A06A00D24C3B /* ViewController.swift */,
+				FCBE40FA25FBC19B001EDC68 /* UDclass.swift */,
 				FC9D0A7D25F6A06A00D24C3B /* Main.storyboard */,
 				FC9D0A8325F6A06D00D24C3B /* Assets.xcassets */,
 				FC9D0A8525F6A06D00D24C3B /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FCBE40FB25FBC19B001EDC68 /* UDclass.swift in Sources */,
 				FC9D0A7C25F6A06A00D24C3B /* ViewController.swift in Sources */,
 				FC9D0A7825F6A06A00D24C3B /* AppDelegate.swift in Sources */,
 				FC9D0A8225F6A06A00D24C3B /* Lesson_14.xcdatamodeld in Sources */,
